@@ -9,7 +9,7 @@ namespace purse_mine
 {
     public class Money
     {        
-        double cash;
+        public double cash;
 
         public void SetCash(double a)
         {

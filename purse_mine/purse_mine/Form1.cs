@@ -12,9 +12,9 @@ namespace purse_mine
 {
     public partial class Form1 : Form
     {
-        Money money = new Money();
+        public Money money = new Money();
         CreditCard creditcard = new CreditCard();
-        credit_card_form credit = new credit_card_form();
+        
         public Form1()
         {
             InitializeComponent();
@@ -43,6 +43,7 @@ namespace purse_mine
 
         private void button4_Click(object sender, EventArgs e)
         {
+            credit_card_form credit = new credit_card_form(this);
             credit.Show();
         }
 

@@ -14,9 +14,12 @@ namespace purse_mine
     {
         CreditCard creditcard = new CreditCard();
         Money money = new Money();
-        public credit_card_form()
+        Form1 form = null;
+
+        public credit_card_form(Form1 form)
         {
             InitializeComponent();
+            this.form = form;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -24,6 +27,7 @@ namespace purse_mine
             double sum = Int32.Parse(textBox1.Text);
             money.SetCash(sum);
             this.Close();
+            form.money.cash += sum;
         }
 
         private void button1_Click(object sender, EventArgs e)

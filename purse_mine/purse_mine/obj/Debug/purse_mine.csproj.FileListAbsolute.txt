@@ -7,3 +7,13 @@ C:\Users\Olha_Horban\Desktop\purse_mine\purse_mine\obj\Debug\purse_mine.csproj.G
 C:\Users\Olha_Horban\Desktop\purse_mine\purse_mine\obj\Debug\purse_mine.exe
 C:\Users\Olha_Horban\Desktop\purse_mine\purse_mine\obj\Debug\purse_mine.pdb
 C:\Users\Olha_Horban\Desktop\purse_mine\purse_mine\obj\Debug\purse_mine.credit_card_form.resources
+F:\olli olli\PM\purse_mine\purse_mine\bin\Debug\purse_mine.exe.config
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.exe
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.pdb
+F:\olli olli\PM\purse_mine\purse_mine\bin\Debug\purse_mine.exe
+F:\olli olli\PM\purse_mine\purse_mine\bin\Debug\purse_mine.pdb
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.csprojResolveAssemblyReference.cache
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.credit_card_form.resources
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.Form1.resources
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.Properties.Resources.resources
+F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.csproj.GenerateResource.Cache
