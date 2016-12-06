@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>purse_mine</name>
+    </assembly>
+    <members>
+        <member name="T:purse_mine.CreditCard">
+            <summary>
+            classss
+            </summary>
+        </member>
+        <member name="F:purse_mine.CreditCard.money">
+            <summary>
+            lkjhlkggkkjgkj
+            </summary>
+        </member>
+        <member name="M:purse_mine.CreditCard.Pay(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="amount">kojhiohoiuhiou</param>
+        </member>
+        <member name="F:purse_mine.credit_card_form.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:purse_mine.credit_card_form.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:purse_mine.credit_card_form.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:purse_mine.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:purse_mine.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:purse_mine.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:purse_mine.Money.cash">
+            <summary>
+            coments1
+            </summary>
+        </member>
+        <member name="M:purse_mine.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:purse_mine.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:purse_mine.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:purse_mine.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:purse_mine.Properties.Resources.download">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

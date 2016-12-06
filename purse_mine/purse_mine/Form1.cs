@@ -10,7 +10,11 @@ using System.Windows.Forms;
 
 namespace purse_mine
 {
+    /// <summary>
+    /// it manages the balance on the card
+    /// </summary>
     public partial class Form1 : Form
+
     {
         public Money money = new Money();
         CreditCard creditcard = new CreditCard();

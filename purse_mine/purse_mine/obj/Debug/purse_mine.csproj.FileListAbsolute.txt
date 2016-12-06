@@ -17,3 +17,4 @@ F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.credit_card_form.reso
 F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.Form1.resources
 F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.Properties.Resources.resources
 F:\olli olli\PM\purse_mine\purse_mine\obj\Debug\purse_mine.csproj.GenerateResource.Cache
+F:\olli olli\PM\purse_mine\purse_mine\bin\Debug\purse_mine.XML
